@@ -5,6 +5,8 @@
 #include <vector>
 using namespace std;
 
+//tri ddax owr dday
+
 int main() {
   int *p;
   int n;
