@@ -5,7 +5,7 @@ Group 10
 	
 	24521977	Huỳnh Hoàng Tứ Văn		huynhhoangtuvan-ops
 	
-	24521135	Trần Kim Ngân		Kylna-ops
+	24521135	Trần Kim Ngân		KylnaCBSCRT-CSE
 	
 	24521831	Huỳnh Minh Trí		trihuynhminh
 	
